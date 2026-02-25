@@ -62,8 +62,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Aulas:
-    - Aula 1 — Autoconhecimento quem é você de verdade?: aulas/aula-1.md
-    - Aula 2 — Seus valores, talentos e referências: aulas/aula-2.md
+    - Aula 1 — Autoconhecimento quem é você de verdade?: aulas/aula1.md
+    - Aula 2 — Seus valores, talentos e referências: aulas/aula2.md
 
 
 
